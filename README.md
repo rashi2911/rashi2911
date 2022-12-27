@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 🚀
-🌱 I’m a prefinal year student at University of Petroleum and Energy Studies pursuing B.Tech in Computer Science. </br>
+🌱 I’m a prefinal year student at University of Petroleum and Energy Studies pursuing B.Tech in Computer Science specializing in Cloud Computing and Virtualization Technologies. </br>
 👨‍💻  I am passionate about learning new technologies like Cloud Computing, DevOps and Machine Learning. </br>
+🔭 I have worked on AWS Cloud platform and also have experience of working with DevOps tools like: Docker and Git
 ⚡I have published research papers in IEEE Conferences.
 
 **Skills:**  
