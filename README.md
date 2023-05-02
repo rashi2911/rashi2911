@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 
 ![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi2911&show_icons=true&hide_border=true)
 <br />
+![](https://komarev.com/ghpvc/?username=rashi2911&style=flat-square)
+<br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=rashi2911.rashi2911) 
