@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi2911&show_icons=true&hide_border=true)
+
+![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi2911&count_private=true&show_icons=true)
 <br />
 ![](https://komarev.com/ghpvc/?username=rashi2911&style=flat-square)
 <br/>
