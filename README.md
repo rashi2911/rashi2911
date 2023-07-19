@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about learning new technologies like Cloud Computing, DevOps and Machine Learning. </br>
 🔭 I have worked on AWS Cloud platform and also have experience of working with DevOps tools like: Docker, Git and Jenkins. </br>
 ✨ I am an AWS Community Builder and AWS Cloud Practitioner Certified. </br>
-⚡I have published research papers in IEEE Conferences.
+⚡I have published research papers in IEEE Conferences and have been awarded Copyright by Government of India for developing custom compiler named: R-Lang.
 
 **Skills:**  
 
