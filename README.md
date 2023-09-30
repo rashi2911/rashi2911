@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 
 
 ![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi2911&count_private=true&show_icons=true)
-<br />
-![](https://komarev.com/ghpvc/?username=rashi2911&style=flat-square)
 <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=rashi2911.rashi2911) 
+<!--[![An image of @rashi2911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashi2911)](https://holopin.io/@rashi2911)
+#<br/>
+#<br />--->
+![](https://komarev.com/ghpvc/?username=rashi2911&style=flat-square)
+
+<!--<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=rashi2911.rashi2911) -->
